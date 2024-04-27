@@ -1,0 +1,1 @@
+A web application for a weather forecast for USA. It contains many features that are weather related. The user only requires to enter the name of the state and then submit and the weather specifications will be produced. 
